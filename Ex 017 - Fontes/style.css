@@ -1,0 +1,18 @@
+@charset "UTF-8";
+@font-face {
+    font-family:'Autu' ;
+    src: url('Fontes/Autu.otf')format(opentype);
+}
+@font-face {
+    font-family:'Fortune';
+    src: url('Fontes/Fortune.otf') format(opentype)
+}
+
+
+h1{
+    font-family:'Fortune' ;
+    text-align: center;
+}
+p{
+    font-family: 'Autu';
+}

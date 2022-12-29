@@ -1,0 +1,18 @@
+Usando a TAG "id='#", dentro de uma tag com as mesmas formatações seleciona só a com a TAG id em especifico
+
+tudo em HTML que é ID em CSS é #
+
+em HTML id    =         em CSS é #
+
+em HTML class =         em CSS é .
+-------------------------------------------------------------------------------
+ATENÇÃO
+
+ID= "só pode 1 elemento"
+CLASS="Pode mais de um elemento"
+--------------------------------------------------------------------------------
+#      = id
+.      = class
+:      =pseudo-class
+::     =pseudo-element
+>      =children

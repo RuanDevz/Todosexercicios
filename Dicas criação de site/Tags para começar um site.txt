@@ -1,0 +1,19 @@
+1.<Header> </Header>  = Cabeçalho do site (parte de cima)
+
+2.<Main> </Main>      = Conteúdo Principal ( parte do meio)
+
+3.<Footer> </Footer>  = Rodapé (parte de baixo do site)
+--------------------------------------------------------------------------------------------------------------------------
+1. <nav> </nav> = Menu com links
+
+2. <Section> </Section> = Divisões da <Main> </Main> 
+--------------------------------------------------------------------------------------------------------------------------
+                                                 Espaçamento entre linhas
+
+Line-Height = da um espaço entre as linhas
+
+text-indent: da uma distancia entre o começo do paragrafo
+
+text-align: justify = deixa todo o texto alinhado
+
+font-weight: deixa em negrito

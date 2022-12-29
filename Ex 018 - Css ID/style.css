@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+body{
+    background-color: #7073ff;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    /*
+    Exemplo abaixo de h1 com id e h1 sem id
+    */
+}
+h1{
+    color:#84d2ff ;
+}
+#primeiro{
+    color: white;
+    background-color:#292df8;
+    text-align: center;
+}
+h2{
+    color: #2e3058 
+}
+.basico{
+    color: green;
+    font-weight: bolder;
+}
+.intermediario{
+    color: yellow;
+    font-weight: bold;
+}
+.avançado{
+    color: red;
+    font-weight: bold;
+}
+.Primeirojunto{
+    color: white;
+    background-color:#292df8;
+    text-align: center;
+}

@@ -1,0 +1,25 @@
+@charset 'UTF-8';
+
+div{
+    color: white;
+    background-color: black;
+    font-family: arial;
+    font-weight: bold;
+    display: inline-block;
+    text-align: center;
+    border: aqua;
+    padding-top: 18px;
+    padding-right: 51px;
+    padding-bottom: 22px;
+    padding-left: 46px;
+    margin-top: 448px;
+    margin-right: 53px;
+    margin-bottom: 48px;
+    margin-left: 104px;
+
+    
+
+}
+div:hover{
+    color: orange;
+}
