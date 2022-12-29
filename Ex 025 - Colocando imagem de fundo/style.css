@@ -1,0 +1,85 @@
+@charset "UTF-8";
+@font-face {
+    font-family:'blomberg' ;
+    src: url("Fonte/Blomberg-8MKKZ.otf"format("opentype"));
+}
+
+*{
+    margin: 0;
+}
+body{
+    background-image: linear-gradient(to bottom, grey,black);
+}
+header h1 a{
+    color: aqua;
+    font-size: 40px;
+}
+h2{
+    text-align: center;
+    padding: 20px;
+    color: white;
+    border: 3px solid black;
+    background-image: linear-gradient(to bottom, grey,black);
+}
+header nav a:hover{
+    color: #00ffff;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #000000b2;
+    padding: 40px;
+
+}
+header a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+nav a{
+    display: inline;
+    margin: 20px;
+}
+div.quadrado{
+    display: inline-block;
+    border-radius: 10px;
+    border: 2px solid black;
+    background-color: yellow;
+    width: 142px;
+    height: 187px;
+    padding-left: 0px;
+}
+.quadrado:hover{
+    height: 188.5px;
+}
+div#q1{
+   background-image: url("Imagens/Baki.jpg");
+}
+div#q2{
+    background-image: url("Imagens/BlackClover.jpg");
+}
+div#q3{
+    background-image: url("Imagens/FullMetal.jpeg");
+}
+div#q4{
+    background-image: url("Imagens/Boruto.jpg")
+}
+div#q5{
+    background-image: url("Imagens/Atackontitan.jpeg");
+}
+div#q6{
+    background-image: url("Imagens/CyberPunk.jpg");
+}
+div#q7{
+    background-image: url("Imagens/DBZ.jpg");
+}
+div#q8{
+    background-image: url("Imagens/DeathNote.jpg");
+}
+div#q9{
+    background-image: url("Imagens/DemonSlayer.jpg");
+}
+div#q1{
+    background-image: url("Imagens/HunterxHunter.jpg");
+}
